@@ -1,2 +1,23 @@
 # Sampling Tingkat Pendapatan Pekerja Informal di DKI Jakarta pada Tahun 2023
 
+#### A.	Introduction & Background
+Gaji pekerja informal di Jakarta sering menjadi permasalahan karena mereka tidak memiliki hak dan perlindungan yang sama seperti pekerja formal. Beberapa masalah utama adalah sebagai berikut:
+1.	Gaji yang tidak memadai: Banyak pekerja informal di Jakarta yang tidak menerima gaji yang memadai dan tidak seimbang dengan jumlah jam kerja mereka. Mereka sering terpaksa bekerja lebih dari satu pekerjaan untuk memenuhi kebutuhan hidup mereka.
+2.	Tidak adanya jaminan sosial: Pekerja informal di Jakarta jarang memiliki akses untuk layanan jaminan sosial seperti asuransi kesehatan dan pensiun. Ini berarti bahwa mereka tidak memiliki jaminan bantuan jika mereka mengalami masalah kesehatan atau menjelang pensiun.
+3.	Tidak adanya hak pekerja: Pekerja informal sering kali tidak memiliki hak pekerja yang sama seperti pekerja formal, seperti cuti tahunan, waktu istirahat, dan hak untuk berkumpul dan berserikat.
+4.	Stabilitas kerja yang tidak terjamin: Pekerja informal di Jakarta sering kali tidak memiliki kontrak kerja dan tidak memiliki jaminan stabilita kerja. Ini berarti bahwa mereka bisa saja dipecat kapan saja tanpa alasan yang jelas.
+5.	Diskriminasi: Banyak pekerja informal di Jakarta mengalami diskriminasi dan stigmatisasi dari masyarakat dan pemberi kerja karena status mereka sebagai pekerja informal.
+
+Untuk memecahkan permasalahan gaji pekerja informal di Jakarta, pemerintah harus memastikan bahwa pekerja informal memiliki akses yang sama seperti pekerja formal untuk layanan jaminan sosial, hak pekerja, dan perlindungan hukum. Pemerintah juga harus bekerja sama dengan pemberi kerja dan masyarakat untuk menghapuskan diskriminasi dan stigma terhadap pekerja informal.
+
+Perbandingan gaji dan tingkat pendidikan bagi pekerja informal di Jakarta sering kali lebih rendah daripada pekerja formal. Pekerja informal di Jakarta meliputi sejumlah besar tenaga kerja, seperti pekerja harian, buruh tani, buruh konstruksi, dan banyak lagi. Mereka sering kali bekerja dalam situasi yang tidak memiliki perlindungan hukum yang sama seperti pekerja formal, dan gaji mereka sering kali lebih rendah.
+Tingkat pendidikan tidak selalu memiliki pengaruh yang signifikan terhadap gaji pekerja informal. Pekerja informal sering kali bekerja pada posisi yang tidak memerlukan tingkat pendidikan tertentu, dan gaji mereka sering kali ditentukan oleh tingkat permintaan pasar untuk jenis pekerjaan tertentu dan tidak terkait dengan tingkat pendidikan mereka.
+
+Namun, meskipun tingkat pendidikan tidak selalu mempengaruhi gaji pekerja informal, pendidikan tetap penting untuk membantu pekerja informal memahami hak dan perlindungan mereka sebagai tenaga kerja, dan membantu mereka memperoleh pekerjaan yang lebih baik dan lebih baik dalam jangka panjang. Oleh karena itu, pendidikan masih dianggap sebagai faktor penting bagi kesejahteraan dan peningkatan kualitas hidup pekerja informal di Jakarta.
+UMR (Upah Minimum Regional) dan UMP (Upah Minimum Provinsi) adalah standar gaji minimum yang ditentukan oleh pemerintah setiap tahun untuk setiap wilayah. UMR dan UMP merupakan jumlah minimum yang harus diterima oleh pekerja untuk memenuhi kebutuhan hidup mereka dan keluarga mereka.
+UMR DKI Jakarta adalah standar gaji minimum yang ditentukan oleh pemerintah setiap tahun untuk wilayah Jakarta. UMR ini diperuntukkan bagi pekerja formal dan informal yang bekerja di Jakarta.
+UMP DKI Jakarta adalah standar gaji minimum yang ditentukan oleh pemerintah setiap tahun untuk wilayah Jakarta. UMP ini diperuntukkan bagi pekerja formal yang bekerja di Jakarta.
+
+Kedua standar ini memberikan acuan bagi perusahaan dan pemberi kerja untuk memberikan gaji minimum yang layak bagi pekerja mereka. Oleh karena itu, UMR dan UMP sangat penting bagi pekerja, terutama bagi pekerja yang memiliki gaji rendah dan membutuhkan dukungan finansial dari gaji mereka.
+Sedangkan berdasarkan rilis dari Pemerintah Provinsi DKI Jakarta, UMR dan UMP Provinsi DKI Jakarta terus meningkat dari tahun ke tahun. Tercatat kenaikan UMR dan UMP pada 2023 tercatat sebesar Rp4.901.798. Besaran itu naik 5,6% dari tahun sebelumnya (year-on-year/yoy) yang sebesar Rp4.641.854.
+Berdasarkan hal tersebut, penulis akan melakukan perancangan sampling terhadap tingkat pendapatan pekerja informa DKI Jakarta pada tahun 2023 untuk selanjutnya akan di analisis oleh stakeholder terkait ketahanan kelompok pekerja tersebut menghadapi potensi krisis ekomomi kedepannya. Harapan yang dapat dicapai dari penelitian tersebut adalah didapatkan parameter polulasi untuk tingkat pendapatan berupa rata-rata (mean) dan sebaran (variance) yang nanti dapat digunakan untuk keperluan public policy.
